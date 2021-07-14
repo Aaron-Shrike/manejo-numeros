@@ -1,5 +1,5 @@
 # Manejo de números
-Sistema de manejo de un conjunto de números que permite ingresar, mostrar, promediar, mostrar el mayor o menor, ordenar ascendente o descendente, insertar o eliminar en una posición indicada, **30/09/18**.
+Sistema de manejo de un conjunto de números que permite ingresar números, mostrar los números ingresados, promediar el conjunto de números, mostrar el mayor o menor numero, ordenar el conjunto de números ascendente o descendente, insertar o eliminar un número en una posición indicada, **30/09/18**.
 
 <div align="center">
 <img src="media/menu-principal.png">
